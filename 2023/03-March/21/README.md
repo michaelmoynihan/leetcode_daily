@@ -1,6 +1,6 @@
 # Leetcode Daily Challenge
 
-**Date**: March 23rd, 2023
+**Date**: March 21rd, 2023
 
 **Question**: [2348. Number of Zero-Filled Subarrays
 ](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
