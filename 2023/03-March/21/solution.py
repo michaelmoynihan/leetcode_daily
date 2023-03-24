@@ -1,5 +1,6 @@
 from typing import Sequence
 
+
 class Solution:
     def zeroFilledSubarray(self, nums: Sequence[int]) -> int:
         result = 0
